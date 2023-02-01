@@ -2,6 +2,6 @@
 $server="localhost";
 $username="root";
 $password="passw0rd";
-$dbname="dbphpsearch";
+$dbname="csv_db 7";
 $conn = mysqli_connect($server , $username , $password , $dbname);
 ?>
