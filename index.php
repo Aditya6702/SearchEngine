@@ -73,49 +73,7 @@ include "header.php";
       <button class="search-button" name="Search">Go</button>
     </div>
   </div>
-<!-- </body> -->
-    <!-- <input type ="text" name="search" class="search" placeholder="Search">
-    <button type="submit" name="Search" calss="Search">Search</button>
-</form>
-<h1>Front page</h1>
-<h2>All articles</h2>
-<style>
-    /* Add your CSS styling here */
-    .search{
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      /* height: 100vh; */
-    /* } */
-    
-    /* .search{ */
-      display: flex;
-      align-items: center;
-      width: 50%;
-      padding: 20px;
-      background-color: #f2f2f2;
-      border-radius: 10px;
-      box-shadow: 2px 2px 10px #ccc;
-    }
-    
-    /* .search-input {
-      border: none;
-      border-radius: 5px 0 0 5px;
-      padding: 10px;
-      width: 60%;
-      font-size: 18px;
-    } */
-    
-    .Search{
-      border: none;
-      border-radius: 0 5px 5px 0;
-      background-color: #4CAF50;
-      color: #fff;
-      padding: 10px 20px;
-      font-size: 18px;
-      cursor: pointer;
-    }
-  </style> -->
+
 
     </body>
 </html>
